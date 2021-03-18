@@ -1,0 +1,159 @@
+[
+    {
+        "pseudo": "sandyjA4313YE",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Alberto and Gabriel gave me and my fianc\u00e9 an amazing service. This was actually the best experience we had so far in Playa Del Carmen, Food was delicious. We\u2019re...",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "paluicaw",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Alberto and Gabriel our waiters were lovely. They deliver service with a smile. Beautiful food, would definitely visit again xx",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "Denissefdz",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "I was very lucky to find out the restaurant was open (with COVID season you never know) and I will like to share my experience\n1. The hygiene and sanitation pro...",
+                "profil_restaurant": "Porfirio s Restaurante"
+            },
+            {
+                "profil_review_date": "nov. 2019",
+                "profil_rating": 5.0,
+                "profil_text": "El hostal tiene excelente relaci\u00f3n precio-servicio. Esta justo en medio de toda la zona tur\u00edstica. Yo llegue caminando a todas partes, excepto Palermo & La Boca...",
+                "profil_restaurant": "Milhouse Hostel Hipo"
+            },
+            {
+                "profil_review_date": "avr. 2019",
+                "profil_rating": 5.0,
+                "profil_text": "Hands up for Argelia & Ventura. They will make sure your dinner is perfect. \n\nThe location and the view of the place are amazing. ",
+                "profil_restaurant": "Terraza"
+            },
+            {
+                "profil_review_date": "avr. 2019",
+                "profil_rating": 5.0,
+                "profil_text": "Just want to give a big shout out to Argelia & Ventura for providing the BEST SERVICE in the entire hospitality industry. You can find them in \u201cLa Terraza Resta...",
+                "profil_restaurant": "Gran Hotel Ciudad de Mexico"
+            },
+            {
+                "profil_review_date": "avr. 2019",
+                "profil_rating": 5.0,
+                "profil_text": "At the end of March, me and my friend decided to climb the Kilimanjaro through KCC. To be honest I think it was he best company (team) we could choose. Simon wa...",
+                "profil_restaurant": "Mont Kilimandjaro"
+            },
+            {
+                "profil_review_date": "mars 2016",
+                "profil_rating": 5.0,
+                "profil_text": "I have no words to express all the GRATITUDE for the staff of this hotel!!! this Staff is the reason I would loved to come back!!! \n\nLocation: best location eve...",
+                "profil_restaurant": "Citadines Kuta Beach Bali"
+            },
+            {
+                "profil_review_date": "juin 2014",
+                "profil_rating": 5.0,
+                "profil_text": "3 weeks ago I stayed at this beautiful place and let me tell you.. best vacations ever!!! this was possible thank you to Gustavo Zugaro and his awesome entertai...",
+                "profil_restaurant": "Ocean Coral & Turquesa"
+            }
+        ]
+    },
+    {
+        "pseudo": "ZT22",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "My husband and I absolutely love this place. The ambiance is amazing, the food is incredible, and the service is impeccable! Carmen the manager is beautiful and...",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "CFT82",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Amazing food with great quality for a really great price. And the atmosphere is unmatched. Best meal in Playa!\nSalvador",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "jordyvill",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Had an amazing experience here staff was great make sure to ask for Salvador he recommended some of the most delicious food that I ve had here in playa 10/10",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "mariabA81NT",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Muy agradables y gentiles. Friendly staff very nice and clean establishment. During the day not many people",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    },
+    {
+        "pseudo": "Maria S",
+        "profil_reviews": []
+    },
+    {
+        "pseudo": "Amor1202",
+        "profil_reviews": [
+            {
+                "profil_review_date": "d\u00e9c. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "Go here ONLY if you want amazing food and excellent service. I literally had 4 servers waiting on me, but they were never overwhelming and always in sync with e...",
+                "profil_restaurant": "Sonora Prime Puerto Vallarta"
+            },
+            {
+                "profil_review_date": "juil. 2020",
+                "profil_rating": 5.0,
+                "profil_text": "My driver was there on time very comfortable air conditioned van. Less expensive than a hotel transportation I m using them again!",
+                "profil_restaurant": "Bekare Transfers"
+            },
+            {
+                "profil_review_date": "juin 2020",
+                "profil_rating": 5.0,
+                "profil_text": "From the moment you step inside this beautiful, classy restaurant, Carmen, who is extremely intelligent and beautiful, will greet you. Then you get an amazing m...",
+                "profil_restaurant": "Porfirio s Restaurante"
+            },
+            {
+                "profil_review_date": "ao\u00fbt 2019",
+                "profil_rating": 4.0,
+                "profil_text": "Very informative locals give you a nice tour around certain attractions in Lisbon and they are funny and entertaining, especially Pedro!! You save time on any l...",
+                "profil_restaurant": "Discover Lisbon"
+            }
+        ]
+    },
+    {
+        "pseudo": "319katiev",
+        "profil_reviews": [
+            {
+                "profil_review_date": "juin 2020",
+                "profil_rating": 5.0,
+                "profil_text": "This was our spot when we stayed in Playa for 2 weeks in June. The service, food, and drinks were excellent. We sat at the bar most nights and had the honor of ...",
+                "profil_restaurant": "Porfirio s Restaurante"
+            }
+        ]
+    }
+]
