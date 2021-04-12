@@ -18,6 +18,5 @@ _main_program folder :_
 All files related to the different classes
 
 _result :_
-All the lexicon text files linked to a compressed text
 Each file contains the scraped data from an url
 
